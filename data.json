@@ -1,0 +1,46 @@
+{
+    "personas": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "edad": 30,
+            "correo": "juan.perez@example.com",
+            "telefono": "123-456-7890",
+            "direccion": {
+                "calle": "Calle Principal",
+                "ciudad": "Ciudad Ejemplo",
+                "estado": "Estado Ejemplo",
+                "codigoPostal": "12345"
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "María",
+            "apellido": "Gómez",
+            "edad": 25,
+            "correo": "maria.gomez@example.com",
+            "telefono": "987-654-3210",
+            "direccion": {
+                "calle": "Avenida Secundaria",
+                "ciudad": "Otra Ciudad",
+                "estado": "Otro Estado",
+                "codigoPostal": "54321"
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "apellido": "Rodríguez",
+            "edad": 35,
+            "correo": "carlos.rodriguez@example.com",
+            "telefono": "555-123-4567",
+            "direccion": {
+                "calle": "Calle 123",
+                "ciudad": "Ciudad Nueva",
+                "estado": "Estado Nuevo",
+                "codigoPostal": "67890"
+            }
+        }
+    ]
+}
